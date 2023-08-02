@@ -184,7 +184,7 @@ for (let i = 0; i < students.length; i++) {
             students[i].neighborhood = `Schildersbuurt`;
             break;
         default:
-            console.log(`Deze postcode bestaat niet`)
+            console.log(`Deze postcode bestaat niet`);
     }
 }
 
